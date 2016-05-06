@@ -1,0 +1,19 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   .cache/v/cache/lastfailed
+#	modified:   api/settings.py
+#	modified:   api/settings.pyc
+#	modified:   api/urls.py
+#	modified:   api/urls.pyc
+#	modified:   practice/__pycache__/tests.cpython-27-PYTEST.pyc
+#	new file:   practice/apps.pyc
+#	modified:   practice/models.py
+#	modified:   practice/models.pyc
+#	modified:   practice/tests.py
+#	modified:   practice/views.py
+#	modified:   practice/views.pyc
+#
+
